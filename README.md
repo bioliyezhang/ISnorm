@@ -9,7 +9,7 @@
 **A1: Install from Github** 
 ```
 install.packages('devtools')  
-devtools::install_github("Zhanglab-SHT/ISnorm", build_vignettes = T)
+devtools::install_github("bioliyezhang/ISnorm", build_vignettes = T)
 ````  
 **A2: Install from package** 
 ```
@@ -25,6 +25,6 @@ use the second installation method.
 **A:** Please refer to [this page](https://mega.nz/folder/ZuQ3maLS#k_Gwe8dVXMhjr6O3ET224g).
 
 **Q:** Where can I report bugs, suggestions, issues, or comments ?  
-**A:** Please refer to [this page](https://github.com/Zhanglab-SHT/ISNorm2/issues).
+**A:** Please refer to [this page](https://github.com/bioliyezhang/ISnorm/issues).
 
 If you use **ISnorm**, please cite.....
