@@ -27,4 +27,7 @@ use the second installation method.
 **Q:** Where can I report bugs, suggestions, issues, or comments ?  
 **A:** Please refer to [this page](https://github.com/bioliyezhang/ISnorm/issues).
 
-If you use **ISnorm**, please cite.....
+If you use **ISnorm**, please cite
+Normalizing single-cell RNA sequencing data with internal spike-in-like genes 
+Li Lin,  Minfang Song,  Yong Jiang,  Xiaojing Zhao,  Haopeng Wang,  Liye Zhang.
+NAR Genomics and Bioinformatics, Volume 2, Issue 3, September 2020, lqaa059,
